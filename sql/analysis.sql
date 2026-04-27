@@ -23,11 +23,10 @@ FROM superstore
 GROUP BY "Category"
 ORDER BY total_profit DESC;
 
--- 3. Profit margin by category
 SELECT
   "Category",
   ROUND(
-    SUM("Profit") / NULLIF(SUM("Sales"),0),
+    (SUM("Profit") / NULLIF(SUM("Sales"),0))::NUMERIC,
     3
   ) AS profit_margin
 FROM superstore
@@ -56,7 +55,7 @@ ORDER BY total_profit ASC;
 
 -- 6. Discount vs profit relationship
 SELECT
-  ROUND("Discount", 2) AS discount_level,
+  ROUND("Discount"::NUMERIC, 2) AS discount_level,
   SUM("Profit") AS total_profit
 FROM superstore
 GROUP BY discount_level
