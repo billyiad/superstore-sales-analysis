@@ -29,10 +29,15 @@ Superstore dataset containing transactional sales data including:
 
 ## 🔍 Key Insights
 
-* Certain sub-categories generate consistent losses despite high sales volume.
-* Higher discount levels are associated with lower profitability.
-* The Consumer segment contributes the highest total profit.
-* Some frequently sold products negatively impact overall profit.
+## 🔍 Key Insights
+
+- The business demonstrates consistent growth from 2014 to 2017, with increasing sales and profit over time.
+- Peak performance occurs in the final quarter (Q4), especially in November and December.
+- The Consumer segment contributes the highest profit, indicating strong individual customer demand.
+- Technology and Office Supplies maintain healthy profit margins (~17%), while Furniture shows significantly lower profitability (~2.5%).
+- Losses are concentrated in specific sub-categories, particularly Tables, which is the largest source of negative profit.
+- High discount levels are strongly correlated with losses. Profit becomes negative when discounts exceed ~30%.
+- Some months show negative profit, suggesting inefficiencies in discount or promotional strategies.
 
 ---
 
@@ -44,10 +49,11 @@ Superstore dataset containing transactional sales data including:
 
 ## 💡 Recommendations
 
-* Reduce excessive discounts on low-margin products.
-* Focus on high-performing customer segments.
-* Re-evaluate pricing strategy for loss-making products.
-
+- Limit discounts above 30%, as they consistently lead to losses.
+- Re-evaluate pricing strategies for Furniture products, especially Tables and Bookcases.
+- Focus on high-margin categories such as Technology to improve overall profitability.
+- Leverage Q4 seasonal trends by optimizing inventory and marketing campaigns.
+- Investigate months with negative profit to identify operational inefficiencies.
 ---
 
 ## 📁 Project Structure
