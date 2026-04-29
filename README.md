@@ -29,8 +29,6 @@ Superstore dataset containing transactional sales data including:
 
 ## 🔍 Key Insights
 
-## 🔍 Key Insights
-
 - The business demonstrates consistent growth from 2014 to 2017, with increasing sales and profit over time.
 - Peak performance occurs in the final quarter (Q4), especially in November and December.
 - The Consumer segment contributes the highest profit, indicating strong individual customer demand.
