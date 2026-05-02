@@ -2,6 +2,7 @@
 End-to-end data analysis project using SQL to analyze sales performance and profitability.
 This project demonstrates SQL-based exploratory data analysis and business insight generation.
 
+--
 
 ## 📌 Objective
 
