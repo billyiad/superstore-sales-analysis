@@ -48,7 +48,7 @@ Superstore dataset containing transactional sales data including:
 ---
 
 ## 📷 Dashboard Preview
-
+![Dashboard Preview](images/dashboard-preview.png)
 
 
 ---
