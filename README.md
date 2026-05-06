@@ -208,7 +208,3 @@ Or view directly on **[Tableau Public](#)** *(https://public.tableau.com/app/pro
 **Billy Ibrahim**
 📍 Bandung, Indonesia
 🐱 [github.com/billyiad](https://github.com/billyiad)
-
----
-
-*If you find this project useful, feel free to ⭐ star the repo!*
