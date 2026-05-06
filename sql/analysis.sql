@@ -71,7 +71,7 @@ ORDER BY total_profit DESC;
 
 -- 8. Monthly sales & profit trend
 SELECT
-  DATE_TRUNC('month', "Order Date") AS month,
+  TO_CHAR("Order Date", 'YYYY-MM') AS month,
   SUM("Sales") AS total_sales,
   SUM("Profit") AS total_profit
 FROM superstore
