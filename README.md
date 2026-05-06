@@ -131,7 +131,7 @@ Sales and profit grew year-over-year. Peak performance consistently occurs in **
 
 Furniture significantly underperforms. Despite generating $741K in sales, its net profit contribution is minimal.
 
-### 3. Discount Threshold — The 30% Rule
+### 3. Discount Threshold
 Profit turns **negative when discounts exceed ~30%**. High-discount transactions are the primary driver of losses, particularly in the Furniture category.
 
 ### 4. Loss-Making Sub-Categories
