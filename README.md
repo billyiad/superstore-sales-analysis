@@ -43,7 +43,7 @@ Raw CSV  →  PostgreSQL (SQL Analysis)  →  Excel (Aggregated Tables)  →  Ta
 |------|---------|
 | PostgreSQL + DBeaver | Data import, exploration, querying |
 | SQL | Aggregation, grouping, trend analysis |
-| Microsoft Excel | Data export, intermediate transformation |
+| Microsoft Excel | Data export & transformation |
 | Tableau Desktop | Dashboard design & visualization |
 | Tableau Public | Dashboard publishing & sharing |
 
