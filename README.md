@@ -175,8 +175,8 @@ SELECT
     SUM("Sales") AS total_sales,
     SUM("Profit") AS total_profit
 FROM superstore
-GROUP BY 1
-ORDER BY 1;
+GROUP BY month
+ORDER BY month;
 ```
 
 📁 All queries available in [`/sql/analysis.sql`](sql/analysis.sql)
@@ -200,8 +200,7 @@ ORDER BY 1;
 2. Open with **Tableau Desktop** (free trial available)
 3. All data is embedded — no external file connection needed
 
-Or view directly on **[Tableau Public](#)** *(link here after publishing)*
-
+Or view directly on **[Tableau Public](#)** *(https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes)*
 ---
 
 ## 👤 Author
