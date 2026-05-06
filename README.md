@@ -14,7 +14,7 @@ End-to-end data analysis project analyzing 4 years of superstore sales data to u
 > 🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes])**
 
 
-[![Dashboard Preview](images/Dashboard-preview.png)]
+![Dashboard Preview](images/Dashboard-preview.png)
 
 ---
 
