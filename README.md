@@ -92,8 +92,8 @@ superstore-sales-analysis/
 
 | Metric | Value |
 |--------|-------|
-| Total Sales | **$2,290,000** |
-| Total Profit | **$286,397** |
+| Total Sales | **$2,297,216** |
+| Total Profit | **$286,396** |
 | Total Orders | **5,009** |
 | Profit per Order | **$57.17** |
 
