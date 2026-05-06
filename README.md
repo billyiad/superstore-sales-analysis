@@ -61,7 +61,7 @@ superstore-sales-analysis/
 │   └── analysis.sql                # All SQL queries
 │
 ├── dashboard/
-│   └── dashboard_porto.twbx        # Tableau Packaged Workbook
+│   └── dashboard-porto.twbx        # Tableau Packaged Workbook
 │
 ├── images/
 │   └── Dashboard-preview.png       # Dashboard screenshot
