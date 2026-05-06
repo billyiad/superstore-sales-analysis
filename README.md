@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-1D9E75?style=flat)
 
-End-to-end data analysis project analyzing 4 years of superstore sales data to uncover profitability drivers, discount impact, and category performance using SQL, Excel, and Tableau.
+End to end data analysis project analyzing 4 years of superstore sales data to uncover profitability drivers, discount impact, and category performance using SQL, Excel, and Tableau.
 
 ---
 
@@ -20,11 +20,11 @@ End-to-end data analysis project analyzing 4 years of superstore sales data to u
 
 ## 📌 Objective
 
-Analyze sales performance and identify key factors affecting profitability across categories, sub-categories, and time periods — with a focus on:
+Analyze sales performance and identify key factors affecting profitability across categories, sub categories, and time periods with a focus on:
 
-- Category-level profit comparison
+- Category level profit comparison
 - Impact of discount strategy on profit
-- Loss-making sub-categories identification
+- Loss making sub categories identification
 - Monthly and yearly sales trends
 
 ---
@@ -44,8 +44,7 @@ Raw CSV  →  PostgreSQL (SQL Analysis)  →  Excel (Aggregated Tables)  →  Ta
 | PostgreSQL + DBeaver | Data import, exploration, querying |
 | SQL | Aggregation, grouping, trend analysis |
 | Microsoft Excel | Data export & transformation |
-| Tableau Desktop | Dashboard design & visualization |
-| Tableau Public | Dashboard publishing & sharing |
+| Tableau | Dashboard design & visualization |
 
 ---
 
@@ -120,7 +119,7 @@ The Tableau dashboard consists of **9 sheets** organized in **1 dashboard view**
 ## 🔍 Key Insights
 
 ### 1. Consistent Growth (2014–2017)
-Sales and profit grew year-over-year. Peak performance consistently occurs in **Q4 (November–December)**, suggesting strong seasonal demand that can be leveraged for inventory and marketing planning.
+Sales and profit grew year over year. Peak performance consistently occurs in **Q4 (November–December)**, suggesting strong seasonal demand that can be leveraged for inventory and marketing planning.
 
 ### 2. Category Performance Gap
 | Category | Profit Margin |
@@ -132,7 +131,7 @@ Sales and profit grew year-over-year. Peak performance consistently occurs in **
 Furniture significantly underperforms. Despite generating $741K in sales, its net profit contribution is minimal.
 
 ### 3. Discount Threshold
-Profit turns **negative when discounts exceed ~30%**. High-discount transactions are the primary driver of losses, particularly in the Furniture category.
+Profit turns **negative when discounts exceed ~30%**. High discount transactions are the primary driver of losses, particularly in the Furniture category.
 
 ### 4. Loss-Making Sub-Categories
 | Sub-Category | Total Loss |
@@ -141,7 +140,7 @@ Profit turns **negative when discounts exceed ~30%**. High-discount transactions
 | Bookcases | -$3,473 |
 | Supplies | -$1,189 |
 
-Tables alone account for the majority of sub-category losses and should be reviewed for pricing or discontinuation.
+Tables alone account for the majority of sub category losses and should be reviewed for pricing or discontinuation.
 
 ### 5. Consumer Segment Leads Profit
 The Consumer segment contributes the highest profit among all customer segments, making it the primary target for retention and upsell strategies.
@@ -162,9 +161,9 @@ The Consumer segment contributes the highest profit among all customer segments,
 
 - Total Sales & Profit aggregation
 - Monthly Sales & Profit Trends
-- Profit by Category and Sub-Category
+- Profit by Category and Sub Category
 - Profit Margin calculation
-- Loss-making Sub-Category identification
+- Loss making Sub Category identification
 - Discount level vs Profit correlation
 - Profit per Order
 
@@ -197,9 +196,8 @@ ORDER BY month;
 ## 🚀 How to Open
 
 1. Download `dashboard_porto.twbx` from the `/dashboard` folder
-2. Open with **Tableau Desktop** (free trial available)
-3. All data is embedded — no external file connection needed
-
+2. Open with **Tableau**
+   
 Or view directly on **[Tableau Public](#)** *(https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes)*
 ---
 
