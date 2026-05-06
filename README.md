@@ -11,10 +11,10 @@ End-to-end data analysis project analyzing 4 years of superstore sales data to u
 
 ## 📊 Live Dashboard
 
-> 🔗 **[View Interactive Dashboard on Tableau Public](#)**
-> *(replace this link after publishing to Tableau Public)*
+> 🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes])**
+> *(https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes])*
 
-[![Dashboard Preview]([https://public.tableau.com/app/profile/billy.ibrahim/viz/dashboard-porto/SuperstoreSalesPerformanceDashboard20142017?publish=yes])]
+[![Dashboard Preview](images/Dashboard-preview.png)]
 
 ---
 
